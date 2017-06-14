@@ -1,3 +1,3 @@
-export function test() {
-  return { type: 'test' };
+export default function test() {
+  return { type: 'TEST_WATCHER' };
 }
